@@ -1,0 +1,9 @@
+catalogoIngridbeauty
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── imagens
+     ├── ingrid-1.jpeg
+     └── ingrid-2.jpeg
